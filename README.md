@@ -41,6 +41,13 @@ project-root/
 2. Open `index.html` in any modern web browser.
 3. Edit the content, styles, or structure as needed to suit your needs.
 
+
+## Live Site
+
+You can view the live version of this site here:  
+https://alimohameddeveloper.github.io/mind-and-metabolism-site/
+
+ 
 ## Technologies Used
 
 - HTML5
