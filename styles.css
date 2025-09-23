@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+      font-family: "Inter", sans-serif;
+
+}
+
+.navsbar{
+    display: flex;
+    gap: 32px;
+    justify-content: end;
+    margin-right: 50px;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+     
+  }
+
+li{
+
+    list-style-type: none;
+}
+
+img{
+    margin-top: 0px;
+    height: 150px;
+    width: 200px;
+  
+}
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     padding: 0 20px;
+}
+
+.line {
+         border: 1px solid #00b4d8;
+          /* Add a top border for the line */
+     }
