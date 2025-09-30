@@ -45,7 +45,7 @@ project-root/
 ## Live Site
 
 You can view the live version of this site here:  
-https://alimohameddeveloper.github.io/mind-and-metabolism-site/
+[https://alimohameddeveloper.github.io/mind-and-metabolism-site/](https://alimohameddeveloper.github.io/Mind-Metabolism/)
 
  
 ## Technologies Used
